@@ -8,4 +8,4 @@
 
 感谢使用! 
 
-<iframe height=600 width=711 src="GIF.gif">      
+<iframe height=600 width=711 src="https://github.com/VVZzzz/ServerTestTool/blob/master/GIF.gif">      
