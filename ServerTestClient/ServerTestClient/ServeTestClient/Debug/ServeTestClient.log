@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  CClient.cpp
+e:\personal-project\servertesttool\servertestclient\servertestclient\servetestclient\cclient.cpp(82): warning C4018: “<”: 有符号/无符号不匹配
+e:\personal-project\servertesttool\servertestclient\servertestclient\servetestclient\cclient.cpp(137): warning C4002: 类函数宏的调用“_T”参数过多
+e:\personal-project\servertesttool\servertestclient\servertestclient\servetestclient\cclient.cpp(192): warning C4477: “sprintf”: 格式字符串“%s”需要类型“char *”的参数，但可变参数 1 拥有了类型“CString”
+  ServeTestClient.cpp
+  ServeTestClientDlg.cpp
+  正在生成代码...
+  ServeTestClient.vcxproj -> E:\Personal-Project\ServerTestTool\ServerTestClient\ServerTestClient\Debug\ServeTestClient.exe
